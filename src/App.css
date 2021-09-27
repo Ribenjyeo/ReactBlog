@@ -40,3 +40,22 @@
 input.mr-sm-2.form-control {
   margin-right: 5px;
 }
+
+.blog{
+  margin-top: 50px;
+}
+
+.blog-message{
+  display: flex;
+  margin-top: 50px;
+}
+
+.media{
+  margin-left: 10px;
+}
+
+.menu-blog{
+  position: absolute;
+  right: 200px;
+  width: 250px;
+}
